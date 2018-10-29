@@ -1,6 +1,6 @@
 # Coding practice resources 
 
-This is a random list of websites / videos / etc I find on internet that I think are worth looking to keep mastering programming and learning new technologies. 
+This is a random list of resources (websites, videos, apps, etc.) to keep learning about programming.
  
 ## General
 - [CodeKata](https://reactjs.org/) - Because experience is the only teacher.
