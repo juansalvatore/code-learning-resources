@@ -57,13 +57,17 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 - [D3js for Data Visualization](https://www.udemy.com/learn-d3js-for-data-visualization/)
 
-### TODO: Books
-
-### TODO: YouTube
-
 ### TODO: Pluralsight 
 
 ### TODO: Wes Bos
+
+### TODO: Pluralsight 
+
+
+
+## TODO: Books
+
+## TODO: YouTube
 
 ### TODO: Twitter
 
