@@ -2,7 +2,7 @@
 
 This is a random list of resources (websites, videos, apps, etc.) to keep learning about programming.
  
-## General
+## General 
 - [CodeKata](http://codekata.com/) - Because experience is the only teacher.
 
 - [CodeWars](https://www.codewars.com/) - A community of developers, who are called "Code Warriors", that train on improving their development skills.
@@ -17,6 +17,18 @@ This is a random list of resources (websites, videos, apps, etc.) to keep learni
 
 ### edX:
 - [CS50: Harvard's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-computer-science-harvardx-cs50x)
+
+### FreeCodeCamp(🔥)
+- [FCC Website](https://www.freecodecamp.org/)
+
+- [FCC Medium](https://medium.freecodecamp.org/)
+
+- [FCC Podcast](https://freecodecamp.libsyn.com/)
+
+- [FCC Buenos Aires](https://freecodecampba.org/)
+
+### Free Courses in Buenos Aires I highly recommend to check out:
+- [ComunidadIT](http://www.comunidadit.org/)
 
 ### Udemy Courses:
 - [MERN Stack Front to Back](https://www.udemy.com/mern-stack-front-to-back/)
