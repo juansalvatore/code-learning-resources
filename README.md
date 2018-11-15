@@ -12,6 +12,13 @@ This is a random list of resources (websites, videos, apps, etc.) to keep learni
 - [Observable HQ](https://beta.observablehq.com/) - Interactive JavaScript notebooks for data analysis, visualization, and exploration.
 
 ## Courses I've done:
+### Coding bootcamp:
+- [Digital House Coding Bootcamp](https://www.digitalhouse.com/)
+
+### edX:
+- [CS50: Harvard's Introduction to Computer Science](https://www.edx.org/es/course/cs50s-introduction-computer-science-harvardx-cs50x)
+
+### Udemy Courses:
 - [MERN Stack Front to Back](https://www.udemy.com/mern-stack-front-to-back/)
 
 - [Modern React with Redux](https://www.udemy.com/react-redux/)
