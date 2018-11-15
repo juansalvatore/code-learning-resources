@@ -1,6 +1,6 @@
 # Code Learning Resources
 
-This is a random list of resources (websites, videos, apps, etc.) to keep learning about programming.
+This is a random list of resources (courses, websites, videos, apps, etc.) to keep learning about programming.
  
 ## General 
 - [CodeKata](http://codekata.com/) - Because experience is the only teacher.
