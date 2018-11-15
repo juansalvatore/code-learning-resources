@@ -11,6 +11,9 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 - [Observable HQ](https://beta.observablehq.com/) - Interactive JavaScript notebooks for data analysis, visualization, and exploration.
 
+## Free Courses in Buenos Aires I highly recommend to check out:
+- [ComunidadIT](http://www.comunidadit.org/)
+
 ## Courses I've done:
 ### Coding bootcamp:
 - [Digital House Coding Bootcamp](https://www.digitalhouse.com/)
@@ -26,9 +29,6 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 - [FCC Podcast](https://freecodecamp.libsyn.com/)
 
 - [FCC Buenos Aires](https://freecodecampba.org/)
-
-### Free Courses in Buenos Aires I highly recommend to check out:
-- [ComunidadIT](http://www.comunidadit.org/)
 
 ### Udemy Courses:
 - [MERN Stack Front to Back](https://www.udemy.com/mern-stack-front-to-back/)
