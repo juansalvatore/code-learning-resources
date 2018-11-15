@@ -11,7 +11,7 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 - [Observable HQ](https://beta.observablehq.com/) - Interactive JavaScript notebooks for data analysis, visualization, and exploration.
 
-## Free Courses in Buenos Aires I highly recommend to check out:
+### Free Courses in Buenos Aires I highly recommend to check out:
 - [ComunidadIT](http://www.comunidadit.org/)
 
 ## Courses I've done:
