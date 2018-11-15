@@ -1,4 +1,4 @@
-# Coding practice resources 
+# Code Learning Resources
 
 This is a random list of resources (websites, videos, apps, etc.) to keep learning about programming.
  
