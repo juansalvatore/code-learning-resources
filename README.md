@@ -69,6 +69,6 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 ## TODO: YouTube
 
-### TODO: Twitter
+## TODO: Twitter
 
 
