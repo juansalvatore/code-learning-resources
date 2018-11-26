@@ -3,7 +3,7 @@
 This is a random list of resources (courses, websites, videos, apps, etc.) to keep learning about programming.
  
 ## General 
-- [HackerRank](https://www.hackerrank.com) - Practice coding, prepare for interviews, and get hired
+- [HackerRank](https://www.hackerrank.com) - Practice coding, prepare for interviews, and get hired.
 
 - [CodeKata](http://codekata.com/) - Because experience is the only teacher.
 
