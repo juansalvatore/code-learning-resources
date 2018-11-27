@@ -75,7 +75,13 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
+- [The Coding Train](https://www.youtube.com/user/shiffman)
+
+- [Wes Bos](https://www.youtube.com/user/wesbos)
+
 - [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
+
+- [IHateTomatoes](https://www.youtube.com/channel/UC7O6CntQoAI-wYyJxYiqNUg)
 
 ## TODO: Twitter
 
