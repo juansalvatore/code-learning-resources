@@ -69,7 +69,13 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 ## TODO: Books
 
-## TODO: YouTube
+## YouTube
+
+- [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+
+- [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+
+- [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 
 ## TODO: Twitter
 
