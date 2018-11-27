@@ -65,8 +65,6 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 ### TODO: Pluralsight 
 
-
-
 ## TODO: Books
 
 ## YouTube
@@ -82,6 +80,14 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 - [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 
 - [IHateTomatoes](https://www.youtube.com/channel/UC7O6CntQoAI-wYyJxYiqNUg)
+
+- [Joma Tech](https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw)
+
+- [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
+
+- [Jarvis Johnson](https://www.youtube.com/user/VSympathyV)
+
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ## TODO: Twitter
 
