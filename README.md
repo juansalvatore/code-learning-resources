@@ -63,8 +63,6 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 ### TODO: Wes Bos
 
-### TODO: Pluralsight 
-
 ## TODO: Books
 
 ## YouTube
