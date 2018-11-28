@@ -63,7 +63,9 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 ### TODO: Wes Bos
 
-## TODO: Books
+## Books
+
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ## YouTube
 
