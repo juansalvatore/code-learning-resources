@@ -15,6 +15,9 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 - [StackBlitz](https://stackblitz.com/) Online IDE for web applications powered by Visual Studio Code.
 
+### 
+- [Open Source Society University](https://github.com/ossu/computer-science) 🎓 Path to a free self-taught education in Computer Science!
+
 ### Free Courses in Buenos Aires I highly recommend to check out:
 - [ComunidadIT](http://www.comunidadit.org/)
 
@@ -82,7 +85,6 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 - [Advanced React](https://advancedreact.com/)
 
 ## Books
-
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 - [You Don't Know JS: Up & Going](https://github.com/twang281314/frontEnd/blob/master/book/You%20Don't%20Know%20JS/You%20Don't%20Know%20JS%20%E2%80%94%E2%80%94%20Up%20%26%20Going.pdf)
