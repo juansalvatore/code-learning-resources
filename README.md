@@ -148,7 +148,25 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 
-## TODO: Twitter
+## Twitter
 
-### TODO: Documentation
+- [Dan Abramov](https://twitter.com/dan_abramov)
+
+- [Sophie Alpert](https://twitter.com/sophiebits)
+
+- [Ryan Florence](https://twitter.com/ryanflorence)
+
+- [Michael Jackson](https://twitter.com/mjackson)
+
+- [FreeCodeCamp](https://twitter.com/freeCodeCamp)
+
+- [Stephen Grider](https://twitter.com/ste_grider)
+
+- [Rich Harris](https://twitter.com/Rich_Harris)
+
+- [James Long](https://twitter.com/jlongster)
+
+- [Guillermo Rauch](https://twitter.com/rauchg)
+
+## TODO: Documentation
 
