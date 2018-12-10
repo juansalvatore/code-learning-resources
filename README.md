@@ -100,6 +100,10 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 ## YouTube
 
+- [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+
+- [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
+
 - [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 
 - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
@@ -120,6 +124,31 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
+- [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg)
+
+- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/featured)
+
+- [Devon Crawfod](https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA)
+
+- [Boris Media Prods](https://www.youtube.com/channel/UCom63VwJ7E9nzULprrLScJw)
+
+- [CrashCourse](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q)
+
+- [It's Okay To Be Smart](https://www.youtube.com/channel/UCH4BNI0-FOK2dMXoFtViWHw)
+
+- [VlogBrothers](https://www.youtube.com/channel/UCGaVdbSav8xWuFWTadK6loA)
+
+- [CalerEdwards](https://www.youtube.com/user/CalerEdwards/videos)
+
+- [MyCodeSchool](https://www.youtube.com/user/mycodeschool/featured)
+
+- [Blackthornprod](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/featured)
+
+- [Wes Bos](https://www.youtube.com/channel/UCoebwHSTvwalADTJhps0emA)
+
+- [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
+
 ## TODO: Twitter
 
+### TODO: Documentation
 
