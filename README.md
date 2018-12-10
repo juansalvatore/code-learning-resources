@@ -13,6 +13,8 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 - [Observable HQ](https://beta.observablehq.com/) - Interactive JavaScript notebooks for data analysis, visualization, and exploration.
 
+- [StackBlitz](https://stackblitz.com/) Online IDE for web applications powered by Visual Studio Code.
+
 ### Free Courses in Buenos Aires I highly recommend to check out:
 - [ComunidadIT](http://www.comunidadit.org/)
 
