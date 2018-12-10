@@ -59,7 +59,21 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 - [D3js for Data Visualization](https://www.udemy.com/learn-d3js-for-data-visualization/)
 
-### TODO: Pluralsight 
+### Pluralsight 
+
+- [Intro to CSS](https://www.pluralsight.com/courses/css-intro)
+
+- [CSS Positioning](https://www.pluralsight.com/courses/css-positioning-1834)
+
+- [A Better CSS: LESS and SASS](https://www.pluralsight.com/courses/better-css)
+
+- [Responsive Web Design](https://www.pluralsight.com/courses/responsive-web-design)
+
+- [Enhancing Web UIs with parallax scrolling](https://www.pluralsight.com/courses/parallax-scrolling-enhancing-web-uis)
+
+- [Modern Web Layout with Flexbox and CSS Grid](https://www.pluralsight.com/courses/modern-web-layout-flexbox-css-grid)
+
+- [D3.js Data Visualization Fundamentals](https://www.pluralsight.com/courses/d3js-data-visualization-fundamentals)
 
 ### Wes Bos
 
