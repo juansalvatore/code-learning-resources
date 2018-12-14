@@ -170,5 +170,5 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 - [Guillermo Rauch](https://twitter.com/rauchg)
 
-## TODO: Documentation
+## TODO: Libraries, tools & other stuff
 
