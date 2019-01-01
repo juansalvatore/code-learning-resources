@@ -150,6 +150,8 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to ke
 
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA)
 
+- [TheHappieCat](https://www.youtube.com/user/TheHappieCat)
+
 ## Twitter
 
 - [Dan Abramov](https://twitter.com/dan_abramov)
