@@ -15,6 +15,8 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to le
 
 - [StackBlitz](https://stackblitz.com/) Online IDE for web applications powered by Visual Studio Code.
 
+- [Bl.ocks](https://bl.ocks.org/) Bl.ocks (pronounced “Blocks”) is a simple viewer for sharing code examples hosted on GitHub Gist. 
+
 ### 
 - [Open Source Society University](https://github.com/ossu/computer-science) 🎓 Path to a free self-taught education in Computer Science!
 
