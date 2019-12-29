@@ -101,6 +101,8 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to le
 
 - [You Don't Know JS: ES6 & Beyond](https://github.com/twang281314/frontEnd/blob/master/book/You%20Don't%20Know%20JS/You%20Don%20t%20Know%20JS%20%E2%80%94%E2%80%94%20ES6%20%26%20Beyond.pdf)
 
+## Blogs
+- [2ality](https://2ality.com/) - JavaScript blog
 
 ## YouTube
 
