@@ -89,17 +89,7 @@ This is a random list of resources (courses, websites, videos, apps, etc.) to le
 ## Books
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 
-- [You Don't Know JS: Up & Going](https://github.com/twang281314/frontEnd/blob/master/book/You%20Don't%20Know%20JS/You%20Don't%20Know%20JS%20%E2%80%94%E2%80%94%20Up%20%26%20Going.pdf)
-
-- [You Don't Know JS: Scope & Closures](https://github.com/twang281314/frontEnd/blob/master/book/You%20Don't%20Know%20JS/You%20Don%E2%80%99t%20Know%20JS%20%E2%80%94%E2%80%94%20Scope%20%26%20Closures.pdf)
-
-- [You Don't Know JS: This & Object Prototypes](https://github.com/twang281314/frontEnd/blob/master/book/You%20Don't%20Know%20JS/You%20Don%E2%80%98t%20Know%20JS%20%E2%80%94%E2%80%94%20This%20%26%20Object%20Prototype.pdf)
-
-- [You Don't Know JS: Types & Grammar](https://github.com/twang281314/frontEnd/blob/master/book/You%20Don't%20Know%20JS/You%20Don't%20Know%20JS%20%E2%80%94%E2%80%94%20Types%20%26%20Grammar.pdf)
-
-- [You Don't Know JS: Async & Performance](https://github.com/twang281314/frontEnd/blob/master/book/You%20Don't%20Know%20JS/You%20Don't%20Know%20JS%20%E2%80%94%E2%80%94%20Async%20%26%20Performance.pdf)
-
-- [You Don't Know JS: ES6 & Beyond](https://github.com/twang281314/frontEnd/blob/master/book/You%20Don't%20Know%20JS/You%20Don%20t%20Know%20JS%20%E2%80%94%E2%80%94%20ES6%20%26%20Beyond.pdf)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ## Blogs
 - [2ality](https://2ality.com/) - JavaScript blog
